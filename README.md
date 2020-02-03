@@ -1,3 +1,8 @@
+
+_Organizer's note:_ this project won the **creativity award** in iQuHACK 2020.
+
+---
+
 # Quantum Waddle 
 
 A tutorial on 1D and 2D quantum walks using Qiskit, with real quantum hardware.
