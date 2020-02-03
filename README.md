@@ -1,4 +1,4 @@
-# Quantum Waddle
+# Quantum Waddle 
 
 A tutorial on 1D and 2D quantum walks using Qiskit, with real quantum hardware.
 
