@@ -1,6 +1,8 @@
 
 _Organizer's note:_ this project won the **creativity award** in iQuHACK 2020.
 
+The project can also be found [here](https://github.com/biswaroopmukherjee/Quantum-Waddle).
+
 ---
 
 # Quantum Waddle 
